@@ -22,4 +22,4 @@
 
 [[constraint]]
   name = "github.com/a8uhnf/test-go1"
-  branch = "test-dep1"
+  version = "2.0.0"
