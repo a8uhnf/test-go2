@@ -12,4 +12,5 @@ func HelloWorld()  {
 
 func HelloWorldTestDep()  {
 	fmt.Println("Hello World from test-go2. Branch: test-dep")
+	a.HelloWorld()
 }
