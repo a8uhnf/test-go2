@@ -2,7 +2,7 @@ package test_go2
 
 import (
 	"fmt"
-	a "github.com/a8uhnf/test-go3"
+	a "github.com/a8uhnf/test-go1"
 )
 
 func HelloWorld()  {
